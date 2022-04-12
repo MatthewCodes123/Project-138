@@ -1,0 +1,17 @@
+body
+{
+    text-align:center;
+}
+
+.header{
+    width:100%;
+}
+
+.header h3{
+    display:inline;
+}
+
+.header button{
+    float: right;
+    border:1px solid white;
+}
